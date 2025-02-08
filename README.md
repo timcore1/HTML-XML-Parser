@@ -42,7 +42,7 @@
 
 Клонирование репозитория
 
-`git clone https://github.com/username/ruby-html-parser.git`
+`git clone https://github.com/timcore1/HTML-XML-Parser.git`
 `cd ruby-html-parser`
 
 ## Установка зависимостей
