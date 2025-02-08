@@ -54,20 +54,7 @@
 
 ### Базовый пример
 
-ruby
-
-require_relative 'html_parser'
-
-Создание парсера
-
-parser = HtmlParser.new('https://example.com')
-
-Получение данных
-
-result = parser.parse
-
-puts "Заголовок: #{result[:title]}"
-
+`ruby example.rb`
 
 ## 📝 Примеры
 
